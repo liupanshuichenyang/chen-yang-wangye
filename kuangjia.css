@@ -1,0 +1,27 @@
+*{margin:0 padding:0}
+body{background:#afeeee;}
+*{ margin:0; padding:0}
+ div {text-align:center}
+ #quyu{ border:0px solid;width:1000px;margin:0 auto;}
+ #quyu #toubu{width:980px;height:155px;border:1px solid #ffffff; margin:8px;line-height:321px}
+ #quyu #toubu #tupian{width:100px;height:142px;border:1px solid #ffffff; margin:8px;line-height:321px; float:left;}
+ #quyu #toubu #zhuye{width:840px;height:142px;border:0px solid #66CCDD; margin:8px;line-height:60px;background:#FFFFDF;float:left;}
+ #quyu #toubu #zhuye #biaoti{width:830px;height:20px;border:0.5px solid #66CCDD ; margin:5px;line-height:60px;background:#FFFFDF;}
+ #quyu #toubu #zhuye #zuoce{width:270px;height:85px;border:0px solid ; margin:5px;line-height:60px;float:left;}
+ #quyu #toubu #zhuye #zhongce{width:270px;height:85px;border:0px solid ; margin:5px;line-height:60px;float:left;}
+ #quyu #toubu #zhuye #youce{width:270px;height:85px;border:0px solid ; margin:5px;line-height:60px;float:left;}
+ #quyu #toubu #zhuye #zuoce #zuoce1{width:80px;height:80px;border:0px solid ; margin:5px;line-height:60px;float:left;}
+ #quyu #toubu #zhuye #zuoce #zuoce2{width:50px;height:80px;border:0px solid ; margin:5px;line-height:60px;float:left;}
+ #quyu #toubu #zhuye #zhongce #zhongce1{width:80px;height:80px;border:0px solid ; margin:5px;line-height:60px;float:left;}
+ #quyu #toubu #zhuye #zhongce #zhongce2{width:70px;height:80px;border:0px solid ; margin:5px;line-height:60px;float:left;}
+ #quyu #toubu #zhuye #youce #youce1{width:80px;height:80px;border:0px solid ; margin:5px;line-height:60px;float:left;}
+ #quyu #toubu #zhuye #youce #youce2{width:70px;height:80px;border:0px solid ; margin:5px;line-height:60px;float:left;}
+ #quyu #jingli{width:980px;height:250px;border:0px solid #44AADD; margin:8px;line-height:500px;background:#d9FFFF}
+ #quyu #zhuanyejineng{width:980px;height:250px;border:0px solid #BB1111; margin:8px;line-height:70px;background:#d9FFFF} 
+ #quyu #zhengju{width:980px;height:350px;border:2px solid #BB1111; margin:8px;line-height:70px;background:#d9FFFF} 
+ #quyu #zhengju #xuewei{width:975px;height:145px;border:1px ; margin:8px;line-height:321px;}
+ #quyu #zhengju #xuewei #biaoti{width:975px;height:30px;border:1px; margin:8px;line-height:321px;}
+ #quyu #zhengju #xuewei #tupian{width:975px;height:100px;border:1px solid #ffffff; margin:8px;line-height:321px;}
+ #quyu #zhengju #qita{width:975px;height:145px;border:1px; margin:8px;line-height:321px; float:left;}
+ #quyu #zhengju #qita #biaoti{width:975px;height:30px;border:1px ;margin:8px;line-height:321px;}
+ #quyu #zhengju #qita #tupian{width:975px;height:100px;border:1px solid #ffffff; margin:8px;line-height:321px;}
